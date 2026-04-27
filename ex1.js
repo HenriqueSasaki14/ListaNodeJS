@@ -1,0 +1,1 @@
+console.log("Iniciando ambiente de desenvolvimento financeiro..." + process.version)
